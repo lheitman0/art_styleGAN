@@ -19,7 +19,7 @@ Here: https://www.dropbox.com/scl/fo/drkyu5t01uixo46s0qj39/ANikebXDDLPOmZeEcKA1K
 
 ## Finetuning
 
-The `finetuning` folder contains the code for resuming the training process from any `.pkl` file. However, the best results have been achieved using the `wikiart1024.pkl` file, which is included in the `data` folder.
+The `finetuning` folder contains the code for resuming the training process from any `.pkl` file. However, the best results have been achieved using the `wikiart1024.pkl` file, which is included in the dropbox pkl folder.
 
 ## Results
 
