@@ -25,6 +25,5 @@ The `finetuning` folder contains the code for resuming the training process from
 
 A sample result image demonstrating the current progress of the art style transfer model:
 
-![StyleGAN3 Generated Image](data/results/fakes000360 (1).png)
-
+![StyleGAN3 Generated Image](data/results/fakes000360%20%281%29.png)
 
