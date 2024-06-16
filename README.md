@@ -13,6 +13,9 @@ I scraped and formatted two datasets
   https://www.dropbox.com/scl/fo/vbmn41qyv4yrcxbs7mhzj/h?rlkey=4trr0wltjqo30pityq21q673q&st=towqrjj0&dl=0
 
 Creating new datasets for new painitng types {Still life, Portrait, Religous} should be easy, just modify the notebooks in the scraping directory.
+## pkl Snapshots
+
+Here: https://www.dropbox.com/scl/fo/drkyu5t01uixo46s0qj39/ANikebXDDLPOmZeEcKA1K08?rlkey=i5iiovpn6wx6ciawymdd27oo3&st=4m5t8i13&dl=0
 
 ## Finetuning
 
