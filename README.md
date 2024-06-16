@@ -2,7 +2,6 @@
 
 This repository contains the research work done to better understand the statistical value of aesthetics, specifically in landscape paintings. The purpose of this README is to provide a starting point for another student to continue the research from where it was left off.
 
-
 ## Dataset
 
 I scraped and formatted two datasets
